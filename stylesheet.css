@@ -1,0 +1,25 @@
+#photo{
+	height:150px;
+	width:150px;
+    border:2px solid black;
+    margin-left: 30px;
+}
+#home{
+	height:20px;
+    width:20px;
+}
+#phone{
+	height:20px; 
+	width:20px;
+}
+h3{
+	font-family: "Lucida" Grande, sans-serif;
+}
+#music{
+	height:300px;
+	 width:150px;
+}
+#download{
+	height:300px;
+    width:150px;
+}
